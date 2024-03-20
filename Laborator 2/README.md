@@ -4,4 +4,5 @@ Pe o tematică pe care o primiți la laborator, realizaţi “Fișa Cerințelor�
 (descriere pe scurt: 1-2 rânduri de actor),
 3) principalele scenarii de utilizare pentru fiecare actor (denumire scenariu, scurtă descriere (1-2
 rânduri de scenariu), eventualele excepții care pot apare).
+
 TEMATICA ALEASA a fost: applicatia Emag
