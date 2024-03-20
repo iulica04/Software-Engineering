@@ -1,7 +1,0 @@
-enum PaymentType {
-
-  Card,
-
-  Cash;
-
-}
